@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="AdditionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-03-24T02:44:27" hostname="wangdanna-Inspiron-N4050" time="0.004">
-  <properties/>
-  <testcase name="should_return_correct_result" classname="AdditionTest" time="0.004"/>
-  <system-out><![CDATA[sum = 1
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
